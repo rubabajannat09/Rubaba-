@@ -1,1 +1,1 @@
-<h3 align="center">📚 currently exploring Java , programming concepts, core cse concepts</h3>
+<h3 align="center">📚 currently exploring Java , programming concepts and core cse concepts</h3>
